@@ -1,4 +1,0 @@
-adminUser:
- create: user
- username: admin
- passwordHash: $2y$10$xkT8B/dBGUg9g5Xp1E9LReCf1P8U5gE2K/GPdL3CYQdnRUB6fnluW
